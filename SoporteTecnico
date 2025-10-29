@@ -1,4 +1,4 @@
-public class Soporte Tecnico{
+public class Soporte Tecnico extends Usuario{
     public void brindarAsistencia(Usuario usuario){
     }
 
@@ -11,4 +11,5 @@ public class Soporte Tecnico{
     }
 
 }
+
 
