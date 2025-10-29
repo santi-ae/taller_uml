@@ -1,0 +1,14 @@
+public class Soporte Tecnico{
+    public void brindarAsistencia(Usuario usuario){
+    }
+
+    public void resolverProblemaTecnico(Usuario usuario){
+
+    } 
+
+    punlic void derivarProblemaDeGestion(administrador Administrador){
+
+    }
+
+}
+

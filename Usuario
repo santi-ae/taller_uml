@@ -1,0 +1,15 @@
+public class Usuario{
+    protected string usuario;
+    protected string contraseña;
+    protected string nombre;
+    protected string apelllido;
+
+    protected boolean LogIn(){ 
+        return true;
+    }
+
+    protected boolean LogOut(){
+        return true;
+    }   
+
+}
