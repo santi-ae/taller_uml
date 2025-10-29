@@ -1,6 +1,8 @@
 public class PersonalAcademico extends Usuario{
     public coid reportarError(String email, String contenido){}
-public void solicicitarAsesoramientoDelSistema(String email, String contenido){}
+public void solicicitarAsesoramientoDelSistema(String email, String contenido){
+    System.out.println("Solicitud Aceptada");
+}
 
 public void comentarEnForo(Foro foro, String comentario){}
 }
