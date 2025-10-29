@@ -1,12 +1,20 @@
 public class Administrador extends Usuario{
 
-    public void crearUsuarioConRol(String Usuario, String contraseña){}
+    public void crearUsuarioConRol(String Usuario, String contraseña){
+        System.out.printLn("Se creo el Usuario.");
+    }
 
-    public void asignarPermiso(String Usuario){}
+    public void asignarPermiso(String Usuario){
+        System.out.printLn("Se asigno el permiso");
+    }
     
-    public void actualizarSoftware(){}
+    public void actualizarSoftware(){
+     System.out.printLn("El Software se ha actualizado");
+    }
 
-    public void asignarResponsable(Curso curso, Profesor responsable){}
+    public void asignarResponsable(Curso curso, Profesor responsable){
+     System.out.printLn("Se asigno un responsable");
+    }
 
     
 }
