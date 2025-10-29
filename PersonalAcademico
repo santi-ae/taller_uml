@@ -1,4 +1,4 @@
-public class PersonalAcademico{
+public class PersonalAcademico extends Usuario{
     public coid reportarError(String email, String contenido){}
 public void solicicitarAsesoramientoDelSistema(String email, String contenido){}
 
