@@ -1,4 +1,5 @@
-public class Tareas{
+public class Tarea extends actividadSumativa{
     private DataTime fechaDePublicacion;
 }
+
  
