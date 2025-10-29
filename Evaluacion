@@ -1,3 +1,4 @@
-public class Evaluacion{
+public class Evaluacion extends ActividadSumativa{
     private int LimiteDeTiempo;
+
 }
