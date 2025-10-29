@@ -1,5 +1,9 @@
 public class Estudiante extends PersonalAcademico{
-    public void solicitarInscripcionCurso(Curso curso){}
-    public void realizarActividadSumativa(Curso curso, ActividadSumativa actividadSumativa){}
+    public void solicitarInscripcionCurso(Curso curso){
+     System.out.printLn("Se ha solicitado la inscripción.");
+    }
+    public void realizarActividadSumativa(Curso curso, ActividadSumativa actividadSumativa){
+          System.out.printLn("Se realizara una actividad academica");
+    }
     
 }
