@@ -1,7 +1,7 @@
 public class Profesor extends PersonalAcademico{
     public void cargarActividadSumativa(Curso curso, ActividadSumativa actividadSumativa){}
-    public void calificarActividadSumativa(Curso curso, Estudiante estudiante, ActividadSumativa actividadSumativa){}
+    public void calificarActividadSumativa(Curso curso, Estudiante estudiante, ActividadSumativa actividadSumativa){
+    System.out.println("actividad calificada");
+    }
     public void aceptarInscripcion(Curso curso, Estudiante estudiante){}
-
-
 }
