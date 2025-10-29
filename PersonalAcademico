@@ -1,0 +1,6 @@
+public class PersonalAcademico{
+    public coid reportarError(String email, String contenido){}
+public void solicicitarAsesoramientoDelSistema(String email, String contenido){}
+
+public void comentarEnForo(Foro foro, String comentario){}
+}

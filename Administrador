@@ -1,0 +1,11 @@
+public class Administrador{
+
+    public void crearUsuarioConRol(String Usuario, String contraseña){}
+
+    public void asignarPermiso(String Usuario){}
+    
+    public void actualizarSoftware(){}
+
+    public void asignarResponsable(Curso curso, Profesor responsable){}
+
+}
